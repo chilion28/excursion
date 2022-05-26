@@ -82,3 +82,6 @@ footer {
 	text-transform: uppercase;
 	padding: 1em;
 }
+
+footer .span-left {float:left; text-align:left; display:inline-block;}
+footer .span-right {float:right; text-align:right; display:inline-block;}
